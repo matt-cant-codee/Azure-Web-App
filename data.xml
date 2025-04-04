@@ -1,0 +1,56 @@
+<data>
+    <membership>
+        <monthly>
+            <price>1000 Php</price>
+            <description>Our monthly membership plan is designed to provide flexibility and affordability, allowing you to commit on a shorter-term basis.</description>
+        </monthly>
+        <annual>
+            <price>15000 Php</price>
+            <description>Our annual membership plan offers significant savings and benefits, including access to all our facilities and specialized training programs throughout the year.</description>
+        </annual>
+    </membership>
+    <trainers>
+        <trainer>
+            <name>Mac Daniel</name>
+            <image>matt.jpg</image>
+            <description>Matt has over 10 years of experience in personal training, specializing in weightlifting and strength training.</description>
+        </trainer>
+        <trainer>
+            <name>Nikko Ferrer</name>
+            <image>nikko.jpg</image>
+            <description>Nikko is a certified yoga instructor with a passion for helping clients achieve balance and flexibility through yoga practice.</description>
+        </trainer>
+        <trainer> 
+            <name>Lenard Errol</name>
+            <image>lenard.jpg</image>
+            <description>Lenard is a nutrition expert with extensive knowledge in diet planning and nutritional counseling.</description>
+        </trainer>
+        <trainer>
+            <name>Zac Nathan</name>
+            <image>zac.jpg</image>
+            <description>Zac is a marathon runner and fitness enthusiast, specializing in cardio training and endurance building.</description>
+        </trainer>
+    </trainers>
+    <gallery>
+        <image>
+            <url>gym1.jpg</url>
+            <description>Our state-of-the-art gym facilities.</description>
+        </image>
+        <image>
+            <url>gym2.jpg</url>
+            <description>Modern equipment for all your needs.</description>
+        </image>
+        <image>
+            <url>gym3.jpg</url>
+            <description>Spacious and clean workout areas.</description>
+        </image>
+        <image>
+            <url>gym4.jpg</url>
+            <description>Friendly and professional staff.</description>
+        </image>
+        <image>
+            <url>gym5.jpg</url>
+            <description>Join us for a healthier life.</description>
+        </image>
+    </gallery>
+</data>
